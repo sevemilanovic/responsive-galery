@@ -67,7 +67,7 @@ body{
         grid-area:5/1/7/4;
     } 
 }  
-@media screen and (max-width: 768px), (min-resolution: 3dppx){
+@media screen and (max-width: 720px), (min-resolution: 3dppx){
     #container{
         height: 230vh;
   grid-template-columns:80vw;
@@ -76,6 +76,9 @@ body{
   justify-items: center;
   
 }
+    .wrapp p{
+        font-size:80%;
+    }
   #text{
       
       grid-area:11/1/16/2;
