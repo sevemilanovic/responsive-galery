@@ -24,7 +24,7 @@ body{
 }
  .wrapp>div{ height:70%;
     width:99%;
-   background-image: url(placeholder-image.png);
+   background-image: url(responsive-galery/placeholder-image.png);
    background-size:cover;
    background-position:center ;
     
